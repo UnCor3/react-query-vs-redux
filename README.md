@@ -8,7 +8,7 @@ People say that you don't even need Redux if you use React Query. Well, in my op
 
 I would say I would prefer using React Query over Redux if all team members agree on it.
 
-Uploaded to CodeSandbox. Click [here]() to view it on CodeSandbox or clone the repo, then do...
+Uploaded to CodeSandbox. Click [here](https://codesandbox.io/p/github/UnCor3/react-query-vs-redux/main?workspaceId=b0bf79b7-a6bf-4d69-b5b1-ffc5190dacf6) to view it on CodeSandbox or clone the repo, then do...
 
 ```bash
 npm install
